@@ -1,0 +1,3 @@
+model_0.bin
+*.logs
+inference/bert-base-uncased/pytorch_model.bin
